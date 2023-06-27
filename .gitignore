@@ -1,6 +1,6 @@
 # ignore .txt files
 *.txt
 
-# ignore demo directory
-demo/
+# ignore idir directory
+idir/
 
